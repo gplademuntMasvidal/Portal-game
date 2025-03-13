@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a7cc3ef58e8d9294c89c610daf2816b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Animation: {instanceID: 0}
+  - m_OpeningDoorAnimationClip: {instanceID: 0}
+  - m_ClosingDoorAnimationClip: {instanceID: 0}
+  - openDoorSound: {fileID: 8300000, guid: b436c55699e875e478f7a76a097b3e4e, type: 3}
+  - closeDoorSound: {fileID: 8300000, guid: b436c55699e875e478f7a76a097b3e4e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
